@@ -67,6 +67,8 @@ Given the simplicity of the user interface, the main challenge was deteremining 
 
 The last user test involved virtual movement.  Knowing that some users are affected by simulator sickness, it was important to test the movement into and through the dungeon.  Initial feedback was that the movement was too slow.  It was also pointed out that the user felt like they were going to hit their head on the entrance and exit to the dungeon.  The camera was lowered and that was no longer an issue.
 
+[![Initial Movement](Media/Development/Movement_Start_Frame.png)](Media/Development/Movement.mp4)
+
 ## Final Result
 
 You can see (and hear) the final result below.  Overall the entire game play is short but satisfying and a good example of the design process.
@@ -104,5 +106,8 @@ When the orbs are lighting up in sequence, the pitch of each orb differs to give
 
 ## Conclusion
 
+Overall, the project met expectations and was a good experience in the VR design process.  It was interesting to get user feedback along the way and adjust the application to make it better.
+
 ### Next Steps
 
+Some of the things I would like to add in the future include more sounds in the dungeon, more props inside and out to help set the mood a little more, and 
